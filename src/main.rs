@@ -10,4 +10,5 @@ fn main() {
     println!("added crates.io");
     println!("finally done it now need to test it to make sure");
     println!("testing release");
+    println!("testing release");
 }
