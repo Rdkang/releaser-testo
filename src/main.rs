@@ -6,4 +6,5 @@ fn main() {
     println!("might have realised that it's using the changelog.md file not new generated one");
     println!("might have realised that it's using the changelog.md file not new generated one");
     println!("now it's public");
+    println!("now using cliff notes");
 }
