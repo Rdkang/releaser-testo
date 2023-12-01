@@ -1,6 +1,6 @@
 [package]
 name = "testo"
-version = "0.3.8"
+version = "0.3.9"
 edition = "2021"
 repository = "https://github.com/rdkang/releaser-testo"
 description = "program to test automated releases"
