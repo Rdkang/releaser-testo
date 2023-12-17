@@ -11,4 +11,5 @@ fn main() {
     println!("finally done it now need to test it to make sure");
     println!("testing release");
     println!("testing release");
+    println!("seeing how to trigger the release");
 }
